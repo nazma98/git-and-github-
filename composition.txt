@@ -1,0 +1,6 @@
+Smoke Testing is a type of testing that is done to ensure that the acute functionalities of the program are working fine. It is also known as a subset of acceptance testing, and it is used to test all over the function of the system/product. On the other hand. 
+
+Sanity Testing is done to check the bugs have been fixed after the build. And it is also known as a subset of regression testing. There is confusion between smoke testing and sanity testing that these two types of testing are the same, but both smoke testing and sanity testing have their objectives and priorities. So, 
+
+Sanity testing and smoke testing are two important testing techniques in software engineering that are often used to check the basic functionality of a software application. Although both techniques are used to check the basic functionality of a software application, there are some key differences between them.
+
